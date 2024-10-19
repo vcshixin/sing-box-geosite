@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "embyplus.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "789.123456.al",
+        "bangumi.ca",
+        "gd.9521732.xyz",
+        "misakaf.org",
+        "pub1.emby.wtf",
+        "pub2.emby.wtf",
+        "pub3.emby.wtf"
+      ]
+    }
+  ],
+  "version": 2
+}
