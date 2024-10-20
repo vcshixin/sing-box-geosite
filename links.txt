@@ -5,9 +5,9 @@ https://raw.githubusercontent.com/vcshixin/ziysgvze/main/clash_rules/nas.yaml
 https://raw.githubusercontent.com/vcshixin/ziysgvze/main/clash_rules/fuwuqi.yaml
 https://raw.githubusercontent.com/vcshixin/ziysgvze/main/clash_rules/emby.yaml
 https://raw.githubusercontent.com/pmkol/easymosdns/rules/china_ip_list.txt
-https://raw.githubusercontent.com/pmkol/easymosdns/rules/china_domain_list.txt
+https://raw.githubusercontent.com/vcshixin/ziysgvze/main/clash_rules/china_domain_list.yaml
 https://raw.githubusercontent.com/pmkol/easymosdns/rules/gfw_ip_list.txt
-https://raw.githubusercontent.com/pmkol/easymosdns/rules/gfw_domain_list.txt
+https://raw.githubusercontent.com/vcshixin/ziysgvze/main/clash_rules/gfw_domain_list.yaml
 
 
 https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Lan/Lan.yaml
