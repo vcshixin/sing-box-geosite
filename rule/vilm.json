@@ -10,6 +10,9 @@
         "apad.pro",
         "deepseek.com",
         "graph.microsoft.com",
+        "ibm.com",
+        "plex.tv",
+        "steamserver.net",
         "vx-cdn.com",
         "vxtrans.com",
         "yckceo.com"
@@ -18,7 +21,8 @@
     {
       "ip_cidr": [
         "74.48.51.8",
-        "8.134.187.254"
+        "8.134.187.254",
+        "8.218.111.116"
       ]
     }
   ],
