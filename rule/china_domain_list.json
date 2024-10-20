@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "0-6.com",
         "0.zone",
         "00.net",
