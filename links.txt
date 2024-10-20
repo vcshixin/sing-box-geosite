@@ -1,9 +1,3 @@
-https://raw.githubusercontent.com/vcshixin/ziysgvze/refs/heads/main/ddli.yaml
-https://raw.githubusercontent.com/vcshixin/ziysgvze/refs/heads/main/emby.yaml
-https://raw.githubusercontent.com/vcshixin/ziysgvze/refs/heads/main/jujt.yaml
-https://raw.githubusercontent.com/vcshixin/ziysgvze/refs/heads/main/nas.yaml
-https://raw.githubusercontent.com/vcshixin/ziysgvze/refs/heads/main/vilm.yaml
-https://raw.githubusercontent.com/vcshixin/ziysgvze/main/fuwuqi.yaml
 https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Lan/Lan.yaml
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMax/ChinaMax_Classical.yaml
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Proxy.yaml
@@ -18,3 +12,4 @@ https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Google/
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/Telegram.yaml
 https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Clash/Rule/AI.yaml
 https://gitlab.com/lodepuly/proxy_tool_resources/-/raw/master/rule/Clash/Microsoft/Microsoft.yaml
+https://raw.githubusercontent.com/pmkol/easymosdns/rules/china_ip_list.txt
