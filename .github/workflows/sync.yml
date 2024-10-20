@@ -28,7 +28,7 @@ steps:
       echo "Download failed."
       exit 1
     fi
-- name: Convert AdRules to sing-box rule set
+- name: Convert AdRules DNS List to sing-box rule set
   run: |
     sing-box rule-set convert --type adguard --output ./rule/AdRules.srs ./rule/AdRules.txt
 - name: Run script
