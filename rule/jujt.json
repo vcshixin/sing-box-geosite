@@ -3,6 +3,7 @@
     {
       "domain": [
         "aedns.weixin.qq.com",
+        "apiauth.quickconnect.to",
         "dns.weixin.qq.com",
         "dns.weixin.qq.com.cn"
       ]
