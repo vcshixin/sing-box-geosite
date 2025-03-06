@@ -1,8 +1,8 @@
 name: Config Update
 
-on:
+于:
   push:
-    branches: [ main ]
+    分支: [ main ]
   workflow_dispatch:
   schedule:
     - cron: '0 12 * * *'
@@ -32,9 +32,7 @@ jobs:
       run: |
         URL="https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt"
         OUTPUT_FILE="./rule/AdRules.txt"
-
         curl -L $URL -o $OUTPUT_FILE
-
         if [ -f "$OUTPUT_FILE" ]; then
           echo "Download successful: $OUTPUT_FILE"
         else
@@ -54,7 +52,6 @@ jobs:
         git add ./rule/*.json
         git add ./rule/*.srs
         git add ./rule/*.txt
-
         # 检查是否有文件被修改
         if git diff --staged --quiet; then
           echo "No changes to commit"
