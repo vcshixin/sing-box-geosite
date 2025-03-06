@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "deeplx.vcuixb.eu.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "apad.pro",
+        "ibm.com",
+        "plex.tv",
+        "steamserver.net",
+        "vx-cdn.com",
+        "vxtrans.com",
+        "yckceo.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "13.230.185.232",
+        "142.171.83.26",
+        "47.79.37.249",
+        "64.181.250.108",
+        "74.48.51.8",
+        "8.134.187.254"
+      ]
+    }
+  ],
+  "version": 2
+}
