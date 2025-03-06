@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cf.emby.ml",
+        "e01.811920.xyz",
+        "emby.aca.best",
+        "emby.misakaf.org",
+        "emby.pilipiliultra.com",
+        "emby.pilipiliultra.top",
+        "embyplus.org",
+        "film.ohhhh.org",
+        "free.xmsl.org",
+        "porn.aca.best",
+        "stream.ntrrr.top",
+        "stream1.misakaf.org",
+        "stream2.misakaf.org",
+        "stream3.misakaf.org",
+        "stream4.misakaf.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "789.123456.al",
+        "bangumi.ca",
+        "gd.9521732.xyz",
+        "pub1.emby.wtf",
+        "pub2.emby.wtf",
+        "pub3.emby.wtf"
+      ]
+    }
+  ],
+  "version": 2
+}
