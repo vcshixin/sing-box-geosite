@@ -2,7 +2,7 @@ name: Config Update
 于:
   push:
     分支: [ main ]
-  workflow_dispatch:
+  workflow_dispatch:  # 保留手动运行按钮
   schedule:
     - cron: '0 12 * * *'
 jobs:
