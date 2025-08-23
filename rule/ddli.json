@@ -6,6 +6,11 @@
         "claw.cloud",
         "linux.do"
       ]
+    },
+    {
+      "domain_suffix": [
+        "mangacopy.com"
+      ]
     }
   ],
   "version": 2
