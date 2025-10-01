@@ -1,13 +1,8 @@
 {
   "rules": [
     {
-      "domain": [
-        "69shuba.cx",
-        "claw.cloud"
-      ]
-    },
-    {
       "domain_suffix": [
+        "69shuba.com",
         "mangacopy.com"
       ]
     }
