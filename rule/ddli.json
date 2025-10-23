@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "ys-l.ysepan.com"
+      ]
+    },
+    {
       "domain_suffix": [
         "69shuba.com",
         "mangacopy.com"
