@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "dwh.yiandrive.com"
+      ]
+    },
+    {
       "domain_suffix": [
         "uianxi.eu.org",
         "vcuixb.eu.org",
