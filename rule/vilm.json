@@ -18,6 +18,11 @@
         "vxtrans.com",
         "yckceo.com"
       ]
+    },
+    {
+      "ip_cidr": [
+        "47.100.138.113/24"
+      ]
     }
   ],
   "version": 2
