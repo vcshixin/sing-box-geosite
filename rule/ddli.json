@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "api.ark717.com",
         "ys-l.ysepan.com"
       ]
     },
@@ -9,7 +10,6 @@
       "domain_suffix": [
         "69shuba.com",
         "anyrouter.top",
-        "ark717.com",
         "jiuuij.de5.net",
         "linux.do",
         "mangacopy.com",
